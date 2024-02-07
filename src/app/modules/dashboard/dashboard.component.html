@@ -1,0 +1,140 @@
+<div class="d-flex justify-content-center align-items-center my-10px">
+  <div class="me-5px">
+    <p-dropdown (onChange)="onChangeFilter($event)" (onClear)="onClearFilter($event)" [options]="classTypes"
+      [(ngModel)]="selectedClassType" optionLabel="name" [showClear]="true"
+      placeholder="Select a Class Type"></p-dropdown>
+  </div>
+  <div class="me-5px">
+    <p-calendar (onSelect)="onYearChange($event)" [(ngModel)]="selectedYear" view="year" placeholder="Select Year"
+      dateFormat="yy" inputId="yearpicker" [disabled]="isCalenderActive" [maxDate]="maxDate"></p-calendar>
+  </div>
+  <div class="me-5px">
+    <p-dropdown [options]="classes" [(ngModel)]="selectedClass" optionLabel="className" [showClear]="true"
+      placeholder="Select a Class"></p-dropdown>
+  </div>
+  <button pButton pRipple class="btn-primary me-5px" (click)="onSubmitFilters()" label="Submit" [disabled]="!selectedClassType || !selectedClass || !selectedYear"></button>
+  <button pButton pRipple class="btn-primary" (click)="onClearFilter($event)" label="Clear Filter" *ngIf="selectedClassType || selectedClass || selectedYear"></button>
+</div>
+
+<div class="student-table">
+  <p-toolbar styleClass="mb-4 gap-2">
+    <ng-template pTemplate="left">
+      <button pButton pRipple label="Add Student" class="btn-primary p-button-success mr-2 me-5px" (click)="openModal()"></button>
+    </ng-template>
+  </p-toolbar>
+
+  <p-table #dt [value]="students" [rows]="10" [paginator]="true" [globalFilterFields]="['name']" (onEditComplete)="onEditComplete($event)"
+    [tableStyle]="{ 'min-width': '75rem' }" [(selection)]="selectedStudents" [rowHover]="true" dataKey="id"
+    currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [showCurrentPageReport]="true">
+    <ng-template pTemplate="caption">
+      <div class="flex align-items-center justify-content-between">
+        <span class="p-input-icon-left">
+          <i class="pi pi-search"></i>
+          <input pInputText type="text" placeholder="Search..." (input)="applyFilterGlobal($event, 'contains')" />
+        </span>
+      </div>
+    </ng-template>
+    <ng-template pTemplate="header">
+      <tr>
+        <th pSortableColumn="name" style="min-width: 15rem">
+          Name <p-sortIcon field="name"></p-sortIcon>
+        </th>
+        <th pSortableColumn="class" style="min-width: 10rem">
+          Class <p-sortIcon field="class"></p-sortIcon>
+        </th>
+        <th pSortableColumn="year" style="min-width: 10rem">
+          Year <p-sortIcon field="year"></p-sortIcon>
+        </th>
+        <th></th>
+      </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-student>
+      <tr>
+        <td class="c-pointer" [pEditableColumn]="student.name" pEditableColumnField="name">
+          <p-cellEditor >
+            <ng-template pTemplate="input">
+              <input pInputText type="text" [(ngModel)]="student.name" />
+            </ng-template>
+            <ng-template pTemplate="output">
+              {{ student?.name }}
+            </ng-template>
+          </p-cellEditor>
+
+        </td>
+        <td [pEditableColumn]="student.class" pEditableColumnField="class">
+          <p-cellEditor >
+            <ng-template pTemplate="input">
+              <input pInputText type="text" [(ngModel)]="student.class" />
+            </ng-template>
+            <ng-template pTemplate="output">
+              {{ student?.class }}
+            </ng-template>
+          </p-cellEditor>
+        </td>
+        <td [pEditableColumn]="student.year" pEditableColumnField="year">
+          <p-cellEditor>
+            <ng-template pTemplate="input">
+              <input pInputText type="text" [(ngModel)]="student.year" />
+            </ng-template>
+            <ng-template pTemplate="output">
+              {{ student?.year }}
+            </ng-template>
+          </p-cellEditor>
+        </td>
+        <td>
+          <button pButton pRipple label="Delete" class="btn-primary p-button-danger me-5px"
+            (click)="deleteStudent($event,student.id)"></button>
+          <button pButton pRipple label="View" class="btn-primary p-button-primary "
+            (click)="viewStudent(student)"></button>
+        </td>
+      </tr>
+    </ng-template>
+    <ng-template pTemplate="emptymessage">
+      <tr>
+          <td colspan="7">No data found.</td>
+      </tr>
+  </ng-template>
+  </p-table>
+</div>
+
+<p-dialog header="Add Student" [(visible)]="isStudentAddModal" [style]="{ width: '50vw' }">
+  <div [formGroup]="studentForm">
+    <div class="relative my-10px">
+      <label for="name">Name <span class="required">*</span></label>
+      <input type="text" class="w-100 border rounded-6 placeholder-gray" placeholder="name" formControlName="name"
+        id="name" />
+    </div>
+    <div class="relative my-10px">
+      <label for="class">Class <span class="required">*</span></label>
+      <input type="text" class="w-100 border rounded-6 placeholder-gray" placeholder="Class" formControlName="class"
+        id="class" />
+    </div>
+    <div class="relative my-10px">
+      <label for="year">Year <span class="required">*</span></label>
+      <input type="number" class="w-100 border rounded-6 placeholder-gray" placeholder="Year" formControlName="year"
+        id="year" />
+    </div>
+    <div class="d-flex gap-10" formGroupName="subject">
+      <div class="relative my-10px">
+        <label for="year">Math <span class="required">*</span></label>
+        <input type="number" class="w-100 border rounded-6 placeholder-gray" placeholder="Math" formControlName="math"
+          id="math" />
+      </div>
+      <div class="relative my-10px">
+        <label for="year">English <span class="required">*</span></label>
+        <input type="number" class="w-100 border rounded-6 placeholder-gray" placeholder="English"
+          formControlName="english" id="english" />
+      </div>
+      <div class="relative my-10px">
+        <label for="year">Science <span class="required">*</span></label>
+        <input type="number" class="w-100 border rounded-6 placeholder-gray" placeholder="Science"
+          formControlName="science" id="science" />
+      </div>
+    </div>
+    <button pButton pRipple label="Add" class="btn-primary p-button-success float-right" (click)="addStudent()"></button>
+  </div>
+  <p-messages [(value)]="messages" [enableService]="false"></p-messages>
+</p-dialog>
+<div class="card flex justify-content-center gap-2">
+  <p-confirmDialog></p-confirmDialog>
+</div>

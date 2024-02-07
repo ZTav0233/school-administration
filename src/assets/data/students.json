@@ -1,0 +1,1557 @@
+[
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Emma Smith",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "abc123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Liam Jones",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "mno345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "Noah Davis",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "pqr678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "James Johnson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "def456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Sophia Williams",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "ghi789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Olivia Brown",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "jkl012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Isabella Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "stu901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "William Wilson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "vwx234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Ava Anderson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "yza567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Mia Taylor",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "bcd890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Ethan White",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Charlotte Garcia",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Michael Rodriguez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Emily Lopez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Alexander Hernandez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Madison Gonzales",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "Daniel Perez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Chloe Washington",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Benjamin Scott",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Mason Lewis",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Amelia Young",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Elijah Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Avery Adams",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Logan Carter",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Harper Ward",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Evelyn Bell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Lucas Nelson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Addison Rivera",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "Gabriel Hayes",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Aria Stewart",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Jackson Price",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Scarlett Long",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "Matthew King",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Luna Lee",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "Henry Foster",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Zoe Richardson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Nathan Powell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Sarah Cook",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "David Morgan",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Layla Cooper",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Jacob Murphy",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Avery Rivera",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Grace Wood",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "Ella Cooper",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Benjamin Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Victoria Ross",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Jack Morgan",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "Emma Turner",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Mason Baker",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "Abigail Hill",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Ryan Bailey",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Sophia Bell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Luke Ward",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Anna Murphy",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "John Thompson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Mia Russell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Isaac Hayes",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Samantha Cole",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "David Turner",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Sophie Cooper",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Tyler Kelly",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Ethan Simmons",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "Madeline Price",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Aiden Stewart",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "Harper Ward",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Levi Hayes",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Grace Bell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Lucas Adams",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Ava Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Leo Garcia",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Emily Richardson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Caleb Gonzalez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Ella Clark",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "Michael Baker",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Emma Peterson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Logan Martin",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Charlotte Cook",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "Liam Allen",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Olivia Foster",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "Noah Gray",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Sophie Lee",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Ethan Ward",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Aria Rivera",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Lucas Kelly",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Evelyn Adams",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "2",
+        "name": "Daniel Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "6",
+        "name": "Harper Long",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Mia Green",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "3",
+        "name": "James Thompson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "9",
+        "name": "Emily White",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Michael Hill",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "cde123",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "4",
+        "name": "Emma Powell",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "efg456",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "10",
+        "name": "William Hayes",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "hij789",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Oliver Cook",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "klm012",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2024",
+        "class": "5",
+        "name": "Charlotte Gonzalez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "nop345",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "7",
+        "name": "Aiden Adams",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "qrs678",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg1",
+        "name": "Ava Hall",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "tuv901",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "1",
+        "name": "Daniel Wright",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "wxy234",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2024",
+        "class": "8",
+        "name": "Lily Foster",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "zab567",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2024",
+        "class": "kg2",
+        "name": "Ethan Turner",
+        "imageUrl": "hthttps://picsum.photos/200/300",
+        "id": "cde890",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "1",
+        "name": "Ethan Hernandez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_15",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "7",
+        "name": "Sophia Garcia",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_4",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg1",
+        "name": "Daniel Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_5",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "3",
+        "name": "Isabella Wilson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_10",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "9",
+        "name": "William Anderson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_9",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg2",
+        "name": "Charlotte Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_16",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "2",
+        "name": "Noah Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_13",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "8",
+        "name": "Amelia Taylor",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_18",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg1",
+        "name": "James Lee",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_7",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "4",
+        "name": "Mia Lopez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_14",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg1",
+        "name": "Lucas Martin",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_20",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "10",
+        "name": "Olivia Brown",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_11",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "5",
+        "name": "Liam Moore",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_2",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "11",
+        "name": "Ava Clark",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_12",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg2",
+        "name": "Benjamin King",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_3",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "6",
+        "name": "Harper Young",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_6",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "10",
+        "name": "Elijah White",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_17",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "kgs",
+        "year": "2023",
+        "class": "kg2",
+        "name": "Michael Lewis",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_19",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "primary",
+        "year": "2023",
+        "class": "7",
+        "name": "Evelyn Martinez",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_8",
+        "subject": {
+            "math": 50,
+            "english": 50,
+            "science": 50
+        }
+    },
+    {
+        "type": "secondary",
+        "year": "2023",
+        "class": "10",
+        "name": "Logan Johnson",
+        "imageUrl": "https://picsum.photos/200/300",
+        "id": "kg2023_1"
+    }
+]

@@ -1,0 +1,59 @@
+.navbar {
+  height: 60px;
+  margin: 0;
+  background-color: #3ab5ca;
+  position: relative;
+}
+
+.user-icon {
+  color: #fff;
+  height: 30px;
+  width: 30px;
+  background: rgb(89, 81, 81);
+  border-radius: 25px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.navbar .username {
+  color: #fff;
+}
+
+.navbar .navbar-brand {
+  margin: 0;
+  padding: 10px;
+  color: #fff;
+}
+
+.navbar > div {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.navbar ul li {
+  color: #fff;
+  list-style: none;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar ul li:hover, .navbar ul li.active{
+color: #c7c5c5;
+}
+
+.navbar ul{
+  padding-left: 10px;
+}

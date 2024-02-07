@@ -1,0 +1,35 @@
+<div class="mx-auto h-100">
+  <div class="d-flex justify-content-center align-items-center h-100">
+    <div class="w-50 p-5 relative">
+      <form [formGroup]="loginForm" class="d-flex justify-content-center align-items-center h-100 auth-form"
+        (ngSubmit)="login()">
+        <div>
+          <h2>Sign In</h2>
+          <p>Please Enter Your Email And Password</p>
+          <div class="relative my-10px">
+            <label for="email">Email <span class="required">*</span></label>
+            <input type="email" class="w-100 border rounded-6 placeholder-gray" placeholder="name@example.com"
+              id="username" formControlName="username" (blur)="onFieldBlur('username')" />
+            <div *ngIf="isFieldInvalid('username')" class="required">
+              Email is required
+            </div>
+          </div>
+          <div class="relative my-10px">
+            <label for="password">Password <span class="required">*</span></label>
+            <input type="password" class="w-100 border rounded-6 placeholder-gray" placeholder="Password"
+              formControlName="password" id="password" (blur)="onFieldBlur('password')" />
+          </div>
+          <div *ngIf="isFieldInvalid('password')" class="required">
+            Password is required
+          </div>
+          <div>
+            <button class="btn-primary w-100 border" type="submit">
+              Sign In
+            </button>
+          </div>
+          <p-messages [(value)]="errorMessage" [enableService]="false" [closable]="true"></p-messages>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

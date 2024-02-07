@@ -1,0 +1,62 @@
+[
+    {
+        "type": "kgs",
+        "classValue": "kg1",
+        "className": "Kg1"
+    },
+    {
+        "type": "kgs",
+        "classValue": "kg2",
+        "className": "Kg2"
+    },
+    {
+        "type": "kgs",
+        "classValue": "1",
+        "className": "First"
+    },
+    {
+        "type": "primary",
+        "classValue": "2",
+        "className": "2nd Grade"
+    },
+    {
+        "type": "primary",
+        "classValue": "3",
+        "className": "3rd Grade"
+    },
+    {
+        "type": "primary",
+        "classValue": "4",
+        "className": "4th Grade"
+    },
+    {
+        "type": "primary",
+        "classValue": "5",
+        "className": "5th Grade"
+    },
+    {
+        "type": "primary",
+        "classValue": "6",
+        "className": "6th Grade"
+    },
+    {
+        "type": "secondary",
+        "classValue": "7",
+        "className": "7th Grade"
+    },
+    {
+        "type": "secondary",
+        "classValue": "8",
+        "className": "8th Grade"
+    },
+    {
+        "type": "secondary",
+        "classValue": "9",
+        "className": "9th Grade"
+    },
+    {
+        "type": "secondary",
+        "classValue": "10",
+        "className": "10th Grade"
+    }
+]

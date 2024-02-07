@@ -1,0 +1,20 @@
+<div class="container">
+  <button class="btn-primary back" routerLink="/dashboard">Back</button>
+  <div class="profile">
+    <div class="profile-picture">
+      <img [src]="image" alt="User Avatar" />
+    </div>
+    <div class="profile-details">
+      <h1>{{studentDetails?.name}}'s Profile</h1>
+      <p><strong>Name:</strong> {{studentDetails?.name}}</p>
+      
+      <p><strong>Class:</strong> {{studentDetails?.class}}</p>
+      <p><strong>Year:</strong>{{studentDetails?.year}}</p>
+      <p><strong>Type:</strong>{{studentDetails?.type}}</p>
+      <p><strong>Subjects & Marks:-</strong></p>
+      <p><strong>Math:</strong> {{studentDetails?.subject.math}}</p>
+      <p><strong>English:</strong>{{studentDetails?.subject.english}}</p>
+      <p><strong>Science:</strong>{{studentDetails?.subject.science}}</p>
+    </div>
+  </div>
+</div>

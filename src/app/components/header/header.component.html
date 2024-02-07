@@ -1,0 +1,14 @@
+<nav class="navbar">
+  <div class="d-flex">
+    <div class="d-flex">
+      <h1 class="navbar-brand">Administration</h1>
+    </div>
+    <div>
+      <div class="user">
+        <span class="username">{{ userDetails }}</span>
+        <span class="user-icon">{{ userDetails.charAt(0) }}</span>
+        <button class="btn-primary" (click)="logOut()">LogOut</button>
+      </div>
+    </div>
+  </div>
+</nav>
