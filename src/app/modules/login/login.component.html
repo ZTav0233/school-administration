@@ -5,13 +5,13 @@
         (ngSubmit)="login()">
         <div>
           <h2>Sign In</h2>
-          <p>Please Enter Your Email And Password</p>
+          <p>Please Enter Your User Name And Password</p>
           <div class="relative my-10px">
-            <label for="email">Email <span class="required">*</span></label>
-            <input type="email" class="w-100 border rounded-6 placeholder-gray" placeholder="name@example.com"
+            <label for="User Name">User Name <span class="required">*</span></label>
+            <input class="w-100 border rounded-6 placeholder-gray" placeholder="User Name"
               id="username" formControlName="username" (blur)="onFieldBlur('username')" />
             <div *ngIf="isFieldInvalid('username')" class="required">
-              Email is required
+              User Name is required
             </div>
           </div>
           <div class="relative my-10px">
