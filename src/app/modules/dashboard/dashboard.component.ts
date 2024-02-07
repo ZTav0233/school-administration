@@ -69,6 +69,7 @@ export class DashboardComponent {
     }
   }
   onChangeFilter(ev: any) {
+   this.getAllStudents()
     console.log(ev.value);
     if (ev.value != null) {
       const filteredClasses = this.classArray.filter((cls: any) => {
@@ -133,7 +134,11 @@ export class DashboardComponent {
 
   onYearChange(event: any) {
     // Handle the year change event here
+    this.getAllStudents()
     console.log(this.selectedYear);
+  }
+  onChangeClass(event:any){
+    this.getAllStudents()
   }
   onClearFilter(ev: any) {
     console.log(ev);

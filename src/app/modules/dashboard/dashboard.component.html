@@ -9,7 +9,7 @@
       dateFormat="yy" inputId="yearpicker" [disabled]="isCalenderActive" [maxDate]="maxDate"></p-calendar>
   </div>
   <div class="me-5px">
-    <p-dropdown [options]="classes" [(ngModel)]="selectedClass" optionLabel="className" [showClear]="true"
+    <p-dropdown (onChange)="onChangeClass($event)" [options]="classes" [(ngModel)]="selectedClass" optionLabel="className" [showClear]="true"
       placeholder="Select a Class"></p-dropdown>
   </div>
   <button pButton pRipple class="btn-primary me-5px" (click)="onSubmitFilters()" label="Submit" [disabled]="!selectedClassType || !selectedClass || !selectedYear"></button>
